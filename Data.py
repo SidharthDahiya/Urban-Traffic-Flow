@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-# Set the date range for September 2024 with 30-minute intervals
+# Set the date range for September 2024 with hourly intervals
 date_range = pd.date_range(start='2024-09-01', end='2024-09-30', freq='h')
 
 # Define locations within Chandigarh
