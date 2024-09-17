@@ -35,13 +35,13 @@ I worked with simulated hourly vehicle counts from various locations in Chandiga
 
 ### Traffic Flow Patterns Over Time
 
-![Traffic Flow Patterns](path/to/your/image.png)
+![Traffic Flow Patterns](myplot.png)
 
 This plot compares traffic patterns across different locations, highlighting areas with potential congestion. It provides a clear view of how traffic varies by location and time.
 
 ### Traffic Volume Forecast for Sector 17
 
-![Traffic Volume Forecast](path/to/your/myplot_Modelling.jpg)
+![Traffic Volume Forecast](myplot_Modelling.png)
 
 The forecast shows regular fluctuations, indicating predictable traffic patterns. The shaded area represents prediction uncertainty, which is crucial for planning robust solutions.
 
